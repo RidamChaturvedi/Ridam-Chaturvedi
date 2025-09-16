@@ -1,5 +1,44 @@
-# 💫 About Me:
-# 👋 Hi, I'm Ridam Chaturvedi  <br><br>🎓 Final Year Mechanical Engineering Student | 💻 Aspiring Software Developer | 🚀 Tech Enthusiast  <br><br>---<br><br>## 👨‍💻 About Me<br>- 🔧 Passionate about **Full-Stack Development** (Android | Web | Backend)  <br>- 📱 Currently building **Gigglz App** (Job & Gig platform) using **Jetpack Compose + Flask + PostgreSQL**  <br>- 📊 Interested in **Machine Learning, Data Science & Applied AI**  <br>- 🛠️ Exploring **Backend Development** with **Flask, Node.js & AWS**  <br>- 🎯 Goal: To work at **top tech companies (Google, Microsoft, Goldman Sachs)**  <br>- 🌱 Always learning & building cool projects  <br><br>---<br><br>## 🛠️ Tech Stack<br>- **Languages**: Kotlin | Python | Java | C++ | SQL  <br>- **Frontend**: Jetpack Compose | HTML | CSS | JS  <br>- **Backend**: Flask | Node.js | Express | JWT  <br>- **Databases**: PostgreSQL | MySQL | SQLite  <br>- **Cloud & Tools**: AWS | Git | Docker  <br><br>---<br><br>## 📌 Featured Projects<br>- 📱 **Gigglz App** – Connecting workers & employers with location-based job search  <br>- 🗂️ **ERP System** – Attendance, Notifications, Library Tracking & More  <br>- 🧠 **AI Interview Bot** – Smart interview assistant with coding & behavioral analysis  <br>- 🗑️ **Smart Dustbin** – IoT project for waste segregation (solid, liquid, plastic)  <br><br>---<br><br>## ✨ Achievements<br>- 🏆 **FFE Scholar**  <br>- 💼 Intern @ **Giglz** (Android Developer)  <br>- 💻 Internship Experience in **Java | Web | Mobile App Development**  <br><br>---<br><br>## 📫 Connect With Me<br>🌐 [LinkedIn](https://www.linkedin.com/in/ridam-chaturvedi) | 📧 ridamchaturvedi25@example.com  <br><br>---<br><br>⭐️ From [Ridam Chaturvedi](https://github.com/RidamChaturvedi)  <br>
+# 👋 Hi, I'm 𝗥𝗶𝗱𝗮𝗺 𝗖𝗵𝗮𝘁𝘂𝗿𝘃𝗲𝗱𝗶
+
+🎓 Final Year Mechanical Engineering Student • 💻 Aspiring Software Developer • 🚀 Tech Enthusiast
+
+---
+
+## 👨‍💻 About Me
+- 🔧 Passionate about **Full-Stack Development** (Android | Web | Backend)  
+- 📱 Currently building **Gigglz App** — Jetpack Compose • Flask • PostgreSQL  
+- 📊 Interested in Machine Learning, Data Science & Applied AI  
+- 🛠️ Exploring Backend development with Flask, Node.js & AWS  
+- 🎯 Goal: Work at Google / Microsoft / Goldman Sachs  
+- 🌱 Always learning & building practical projects
+
+## 🛠️ Tech Stack
+**Languages:** Kotlin • Python • Java • C++ • SQL  
+**Frontend:** Jetpack Compose • HTML • CSS • JS  
+**Backend:** Flask • Node.js • Express • JWT  
+**Databases:** PostgreSQL • MySQL • SQLite  
+**Tools:** AWS • Git • Docker
+
+## 📌 Featured Projects
+- **Gigglz App** — Location-based job & gig platform  
+- **ERP System** — Attendance, notifications, library tracking  
+- **AI Interview Bot** — Coding + behavioral assessment assistant  
+- **Smart Dustbin** — IoT project for waste segregation
+
+## ✨ Achievements
+- 🏆 FFE Scholar  
+- 💼 Intern @ Giglz (Android Developer)  
+- 💻 Internship experience in Java, Web & Mobile
+
+## 📫 Contact
+- LinkedIn: [ridam-chaturvedi](https://www.linkedin.com/in/ridam-chaturvedi)  
+- Email: ridamchaturvedi25@example.com
+
+---
+
+⭐️ From [𝗥𝗶𝗱𝗮𝗺 𝗖𝗵𝗮𝘁𝘂𝗿𝘃𝗲𝗱𝗶](https://github.com/RidamChaturvedi)
+
+
 
 
 # 💻 Tech Stack:
